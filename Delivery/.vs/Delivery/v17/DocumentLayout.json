@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antik\\Documents\\Delivery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|c:\\users\\antik\\documents\\delivery\\delivery\\view\\sortorderresult.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|solutionrelative:delivery\\view\\sortorderresult.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|c:\\users\\antik\\documents\\delivery\\delivery\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|solutionrelative:delivery\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|c:\\users\\antik\\documents\\delivery\\delivery\\core\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|solutionrelative:delivery\\core\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|c:\\users\\antik\\documents\\delivery\\delivery\\viewmodel\\sortorderresultvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|solutionrelative:delivery\\viewmodel\\sortorderresultvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|c:\\users\\antik\\documents\\delivery\\delivery\\model\\orderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|solutionrelative:delivery\\model\\orderfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|c:\\users\\antik\\documents\\delivery\\delivery\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|solutionrelative:delivery\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|c:\\users\\antik\\documents\\delivery\\delivery\\view\\sortorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|solutionrelative:delivery\\view\\sortorder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|c:\\users\\antik\\documents\\delivery\\delivery\\viewmodel\\sortordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|solutionrelative:delivery\\viewmodel\\sortordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|c:\\users\\antik\\documents\\delivery\\delivery\\core\\viewmodellocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF8E5C9-831B-49EC-94C0-68D2D61116B9}|Delivery\\Delivery.csproj|solutionrelative:delivery\\core\\viewmodellocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderFilter.cs",
+              "DocumentMoniker": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\Model\\OrderFilter.cs",
+              "RelativeDocumentMoniker": "Delivery\\Model\\OrderFilter.cs",
+              "ToolTip": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\Model\\OrderFilter.cs",
+              "RelativeToolTip": "Delivery\\Model\\OrderFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:38:22.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewModelLocator.cs",
+              "DocumentMoniker": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\Core\\ViewModelLocator.cs",
+              "RelativeDocumentMoniker": "Delivery\\Core\\ViewModelLocator.cs",
+              "ToolTip": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\Core\\ViewModelLocator.cs",
+              "RelativeToolTip": "Delivery\\Core\\ViewModelLocator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:32:28.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseController.cs",
+              "DocumentMoniker": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\Core\\DatabaseController.cs",
+              "RelativeDocumentMoniker": "Delivery\\Core\\DatabaseController.cs",
+              "ToolTip": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\Core\\DatabaseController.cs",
+              "RelativeToolTip": "Delivery\\Core\\DatabaseController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAqwFAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:28:39.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\DataBase\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Delivery\\DataBase\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\DataBase\\DatabaseContext.cs",
+              "RelativeToolTip": "Delivery\\DataBase\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:28:21.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SortOrder.xaml",
+              "DocumentMoniker": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\View\\SortOrder.xaml",
+              "RelativeDocumentMoniker": "Delivery\\View\\SortOrder.xaml",
+              "ToolTip": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\View\\SortOrder.xaml",
+              "RelativeToolTip": "Delivery\\View\\SortOrder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T21:23:10.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Delivery\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\Model\\Order.cs",
+              "RelativeToolTip": "Delivery\\Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:20:41.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SortOrderVM.cs",
+              "DocumentMoniker": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\ViewModel\\SortOrderVM.cs",
+              "RelativeDocumentMoniker": "Delivery\\ViewModel\\SortOrderVM.cs",
+              "ToolTip": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\ViewModel\\SortOrderVM.cs",
+              "RelativeToolTip": "Delivery\\ViewModel\\SortOrderVM.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACcAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:11:56.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SortOrderResultVM.cs",
+              "DocumentMoniker": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\ViewModel\\SortOrderResultVM.cs",
+              "RelativeDocumentMoniker": "Delivery\\ViewModel\\SortOrderResultVM.cs",
+              "ToolTip": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\ViewModel\\SortOrderResultVM.cs",
+              "RelativeToolTip": "Delivery\\ViewModel\\SortOrderResultVM.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:07:43.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortOrderResult.xaml",
+              "DocumentMoniker": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\View\\SortOrderResult.xaml",
+              "RelativeDocumentMoniker": "Delivery\\View\\SortOrderResult.xaml",
+              "ToolTip": "C:\\Users\\antik\\Documents\\Delivery\\Delivery\\View\\SortOrderResult.xaml",
+              "RelativeToolTip": "Delivery\\View\\SortOrderResult.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-27T10:56:06.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
